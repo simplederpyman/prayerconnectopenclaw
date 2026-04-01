@@ -2,6 +2,10 @@
 
 PrayerConnect is een gratis, mobielvriendelijk gebedsplatform voor kerken. Dit project is opgezet als multi-tenant SaaS met een React + TypeScript frontend en Supabase als backend voor auth, database, realtime en row-level security.
 
+## Live demo
+
+GitHub Pages: <https://simplederpyman.github.io/prayerconnectopenclaw/>
+
 ## Stack
 
 - React + TypeScript
@@ -40,6 +44,10 @@ PrayerConnect is een gratis, mobielvriendelijk gebedsplatform voor kerken. Dit p
 3. Vul je Supabase projectgegevens in
 4. Start de app:
    `npm run dev`
+
+## GitHub Pages
+
+De app deployt via GitHub Actions naar GitHub Pages.
 
 ## Supabase
 
